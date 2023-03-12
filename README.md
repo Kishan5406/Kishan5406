@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming...
 - 🌱 I’m currently learning DSA.and web dev.
 - 💞️ I’m looking to collaborate on web dev projects ...
-- 📫 How to reach me through:
+- 📫 Contact me:
 -                            kannoujiya7309@gmail.com
 -                            https://www.linkedin.com/in/kishan-lal-56b255194/
 - 
